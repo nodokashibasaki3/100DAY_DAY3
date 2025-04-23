@@ -4,14 +4,14 @@ A full-featured, responsive web application to manage tutors, tutees, sessions, 
 
 ## 🚀 Features
 
-- 🔐 Authentication system with login page
-- 📊 Dashboard with key stats and recent activity
-- 👩‍🏫 Manage tutors, tutees, and match assignments
-- 📅 Schedule and track tutoring sessions and events
-- 🧾 Attendance and volunteer hour reports
-- 📈 Visual analytics with charts
-- 🔍 Search, pagination, alerts, and toasts
-- 🧠 Context-based state management
+- Authentication system with login page
+- Dashboard with key stats and recent activity
+- Manage tutors, tutees, and match assignments
+- Schedule and track tutoring sessions and events
+- Attendance and volunteer hour reports
+- Visual analytics with charts
+- Search, pagination, alerts, and toasts
+- Context-based state management
 
 ## 🏗️ Tech Stack
 
